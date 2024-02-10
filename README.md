@@ -1,2 +1,2 @@
 # Image-Silder
-<img src="images.jpeg">
+<img src="images(1).jpeg">
